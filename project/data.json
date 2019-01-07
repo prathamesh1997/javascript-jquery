@@ -1,0 +1,96 @@
+{
+  "ServiceRequests": [
+    {
+      "id": 1,
+      "name": "Furniture Repair"
+    },
+    {
+      "id": 2,
+      "name": "Plumbing Issues"
+    },
+    {
+      "id": 3,
+      "name": "Electrical Issues"
+    },
+    {
+      "id": 4,
+      "name": "Internet Issues"
+    },
+    {
+      "id": 5,
+      "name": "DTH/ Cabel Issues"
+    },
+    {
+      "id": 6,
+      "name": "Cooking Gas Issues"
+    },
+    {
+      "id": 7,
+      "name": "Water Issues"
+    },
+    {
+      "id": 8,
+      "name": "House Keys"
+    },
+    {
+      "id": 9,
+      "name": "Electronic Appliance Service"
+    }
+  ],
+  "Issues": [
+    {
+      "id": 1,
+      "issues": [
+        {
+          "id":1,
+          "name":"Issue With Bed"
+        },
+        {
+          "id":2,
+          "name":"Issue with Wadrobe"
+        },
+        {
+          "id":3,
+          "name":"Issue with Matress"
+        },
+        {
+          "id":4,
+          "name":"Issue with Side Table"
+        },
+        {
+          "id":5,
+          "name":"Issue with Sofa Set"
+        },
+        {
+          "id":6,
+          "name":"Issue with Dining Table"
+        },
+        {
+          "id":7,
+          "name":"Issue with Kitchen cabinets"
+        }
+      ]
+    }
+  ],
+    "Priority":[
+            {
+   
+                  "id":1,
+                   "priority":[
+                     {
+                         "id":1,
+                          "name":"High Priority"
+                    },
+                     {
+                         "id":2,
+                          "name":"Fix it asap"
+                    },
+                    {
+                         "id":3,
+                          "name":"Not Bothering, but needs to be fixed"
+                    }
+                     ]
+           } 
+
+    ]
+}
